@@ -1,0 +1,73 @@
+2018-04-26T00:44:23.903Z - normal: Load ~/.CocosCreator/settings.json
+2018-04-26T00:44:23.911Z - normal: checking language setting...
+2018-04-26T00:44:23.912Z - normal: Language: zh
+2018-04-26T00:44:28.440Z - success: protocol editor-framework registered
+2018-04-26T00:44:28.440Z - success: protocol app registered
+2018-04-26T00:44:28.440Z - success: protocol theme registered
+2018-04-26T00:44:28.440Z - success: protocol packages registered
+2018-04-26T00:44:28.441Z - success: protocol unpack registerred
+2018-04-26T00:44:28.441Z - success: protocol disable-commonjs registerred
+2018-04-26T00:44:28.451Z - error: { Error: getaddrinfo ENOENT creator-api.cocos.com:443
+    at Object.exports._errnoException (util.js:1050:11)
+    at errnoException (dns.js:33:15)
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:73:26)
+  code: 'ENOENT',
+  errno: 'ENOENT',
+  syscall: 'getaddrinfo',
+  hostname: 'creator-api.cocos.com',
+  host: 'creator-api.cocos.com',
+  port: 443 }
+    at E:\CocosCreator\resources\app.asar\share\login\lib\user.js:1:1441
+    at ClientRequest.Https.request.on.e (E:\CocosCreator\resources\app.asar\share\login\lib\network.js:1:873)
+    at emitOne (events.js:96:13)
+    at ClientRequest.emit (events.js:191:7)
+    at TLSSocket.socketErrorListener (_http_client.js:358:9)
+    at emitOne (events.js:96:13)
+    at TLSSocket.emit (events.js:191:7)
+    at connectErrorNT (net.js:1032:8)
+    at _combinedTickCallback (internal/process/next_tick.js:80:11)
+2018-04-26T00:44:28.457Z - normal: failed to connect login server... skipping login
+2018-04-26T00:44:28.459Z - normal: Check project E:\start_project
+2018-04-26T00:44:28.464Z - normal: Initializing Cocos2d
+2018-04-26T00:44:31.213Z - normal: Initializing Asset Database
+2018-04-26T00:44:31.397Z - success: protocol uuid registerred
+2018-04-26T00:44:31.397Z - success: protocol db registerred
+2018-04-26T00:44:31.397Z - success: protocol thumbnail registerred
+2018-04-26T00:44:31.397Z - normal: Loading editor/builtin packages
+2018-04-26T00:44:31.576Z - success: anysdk loaded
+2018-04-26T00:44:31.973Z - success: assets loaded
+2018-04-26T00:44:31.979Z - success: builder loaded
+2018-04-26T00:44:31.987Z - success: cocos-analytics loaded
+2018-04-26T00:44:31.995Z - success: console loaded
+2018-04-26T00:44:32.126Z - success: fb-instant-games loaded
+2018-04-26T00:44:32.134Z - success: hierarchy loaded
+2018-04-26T00:44:32.140Z - success: inspector loaded
+2018-04-26T00:44:32.144Z - success: keystore loaded
+2018-04-26T00:44:32.154Z - success: node-library loaded
+2018-04-26T00:44:32.158Z - success: package-asset loaded
+2018-04-26T00:44:32.164Z - success: preferences loaded
+2018-04-26T00:44:32.168Z - success: project-exporter loaded
+2018-04-26T00:44:32.215Z - success: project-importer loaded
+2018-04-26T00:44:32.220Z - success: project-settings loaded
+2018-04-26T00:44:32.225Z - success: ui-kit loaded
+2018-04-26T00:44:32.241Z - success: ui-grid loaded
+2018-04-26T00:44:32.250Z - success: scene loaded
+2018-04-26T00:44:32.253Z - success: sprite-editor loaded
+2018-04-26T00:44:32.259Z - success: store loaded
+2018-04-26T00:44:32.269Z - success: timeline loaded
+2018-04-26T00:44:32.269Z - normal: Loading builtin packages
+2018-04-26T00:44:32.280Z - success: asset-db-debugger loaded
+2018-04-26T00:44:32.283Z - success: code-editor loaded
+2018-04-26T00:44:32.293Z - success: color-picker loaded
+2018-04-26T00:44:32.298Z - success: package-manager loaded
+2018-04-26T00:44:32.310Z - success: sdkbox loaded
+2018-04-26T00:44:32.316Z - success: tester loaded
+2018-04-26T00:44:32.328Z - success: ui-kit-preview-extra loaded
+2018-04-26T00:44:32.331Z - success: ui-kit-preview loaded
+2018-04-26T00:44:32.334Z - success: ui-tree loaded
+2018-04-26T00:44:35.576Z - normal: Initializing project E:\start_project
+2018-04-26T00:44:35.581Z - normal: Loading packages
+2018-04-26T00:44:35.588Z - normal: Watching packages
+2018-04-26T00:44:35.625Z - normal: Run Application
+2018-04-26T00:44:37.774Z - success: preview server running at http://localhost:7456
+2018-04-26T00:44:48.900Z - normal: 1.9.0
